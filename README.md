@@ -1,3 +1,3 @@
 to-do list in browser local storage
 
-Live link : https://idyllic-douhua-69db70.netlify.app/
+Live link : https://unique-taiyaki-c9f329.netlify.app/
